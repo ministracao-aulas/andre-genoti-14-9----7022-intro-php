@@ -1,0 +1,59 @@
+- funções
+    - funções anônimas (closures)
+    - arrow functions
+    - parâmetros de funções
+        - parâmetros opcionais
+        - parâmetros obrigatórios
+        - parâmetros tipado
+        - parâmetros diretos (usando : para referenciar parâmetro PHP 8+)
+    - escopo de funções
+    - funções manipuladoras de funções
+- estrutura de dados
+    - arrays
+    - objects
+- estrutura de controle
+    - if, else, elseif
+    - switch/case
+    - match (PHP 8+)
+- laços de repetição
+    - while
+    - do/while
+    - for
+    - foreach
+- require/require_once
+- include/include_once
+
+## ----
+- POO
+    - Pilares
+        - abstração
+        - herança
+        - polimorfismo
+        - encapsulamento
+    - Classe abstratas
+    - Classe finais
+    - Classes anônimas
+    - Traits
+    - Interfaces
+    - Métodos e atributos estáticos
+    - Diferença entre this, self, static, parent
+    - Métodos mágicos
+        - __invoke
+        - __construct
+        - __destruct
+        - __get
+        - __set
+        - __toString
+        - __call
+        - __callStatic
+    - Auxiliadores
+        - __CLASS__
+        - __METHOD__
+        - __NAMESPACE__
+        - class_exists
+        - method_exists
+        - property_exists
+        - callable type
+        - is_callable
+        - call_user_func
+        - class_implements
